@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/to-do/bin/Debug/netcoreapp1.1/To-do.deps.json
+/Users/Guest/Desktop/to-do/bin/Debug/netcoreapp1.1/To-do.runtimeconfig.json
+/Users/Guest/Desktop/to-do/bin/Debug/netcoreapp1.1/To-do.runtimeconfig.dev.json
+/Users/Guest/Desktop/to-do/obj/Debug/netcoreapp1.1/To-do.AssemblyInfo.cs
+/Users/Guest/Desktop/to-do/bin/Debug/netcoreapp1.1/To-do.dll
+/Users/Guest/Desktop/to-do/bin/Debug/netcoreapp1.1/To-do.pdb
+/Users/Guest/Desktop/to-do/obj/Debug/netcoreapp1.1/To-do.dll
+/Users/Guest/Desktop/to-do/obj/Debug/netcoreapp1.1/To-do.pdb
